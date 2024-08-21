@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: notes-app-deployment
-        image: stewiedocker/notes-app
+        image: stewiedocker46/notes-app
         resources:
           requests:
             cpu: "100m"
